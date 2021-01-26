@@ -13,7 +13,7 @@ This repository aims to collect research papers about applying graph models in c
    *Fucheng Liu, Yu Wen, Dongxue Zhang, Xihe Jiang, et.al.*  CCS, 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3363224) [[code]]
 1. **Unicorn: Runtime provenance-based detector for advanced persistent threats.**
    *Xueyuan Han, Thomas Pasquier, Adam Bates, James Mickens, et.al.*  NDSS, 2020. [[paper]](https://arxiv.org/pdf/2001.01525.pdf) [[code]]
-1. **Unicorn: Runtime provenance-based detector for advanced persistent threats.**
+1. **Detecting Lateral Movement in Enterprise Computer Networks with Unsupervised Graph AI.**
    *Benjamin Bowman, Craig Laprade, Yuede Ji, H. Howie Huang.*  RAID, 2020. [[paper]](https://www2.seas.gwu.edu/~howie/publications/CyberGraph-RAID20.pdf) [[code]]
    
 
