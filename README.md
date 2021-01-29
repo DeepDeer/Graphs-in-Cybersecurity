@@ -18,3 +18,21 @@ This repository aims to collect research papers about applying graph models in c
    
 
 ### Others
+
+
+### Attacks on Graph Models
+As there are lots of researches in this area, I only list those published in cybersecurity-related conferences/journals or evaluated in cybersecurity scenarios.
+For more awesome graph attack papers, please refer to:
+
+https://github.com/ChandlerBang/awesome-graph-attack-papers 
+
+https://github.com/safe-graph/graph-adversarial-learning-literature 
+
+https://github.com/DSE-MSU/DeepRobust/tree/master/deeprobust/graph 
+
+https://github.com/gitgiter/Graph-Adversarial-Learning 
+
+1. **Attacking Graph-based Classification via Manipulating the Graph Structure.**
+   *Binghui Wang, Neil Zhenqiang Gong.*  CCS, 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354206) [[code]]
+1. **Attacking Graph-Based Classification without Changing Existing Connections**
+   *Xuening Xu, Xiaojiang Du, Qiang Zeng.*  ACSAC, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3427228.3427245) [[code]]
