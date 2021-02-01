@@ -36,3 +36,5 @@ https://github.com/gitgiter/Graph-Adversarial-Learning
    *Binghui Wang, Neil Zhenqiang Gong.*  CCS, 2019. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3319535.3354206) [[code]]
 1. **Attacking Graph-Based Classification without Changing Existing Connections**
    *Xuening Xu, Xiaojiang Du, Qiang Zeng.*  ACSAC, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3427228.3427245) [[code]]
+1. **Stealing Links from Graph Neural Networks**
+   *Xuening Xu, Jinyuan Jia, Michael Backes, Neil Zhenqiang Gong, Yang Zhang.*  USENIX SECURITY, 2021. [[paper]](https://arxiv.org/abs/2005.02131) [[code]]
